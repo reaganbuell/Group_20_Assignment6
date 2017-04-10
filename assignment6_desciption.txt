@@ -1,0 +1,7 @@
+This group project has a few main animations that occur.
+
+Reagan made the seagull flocking animation. They follow the three rules of flocking: cohesion, separation, and alignment. He and Xindi worked together to make the super class for the seagulls and the fish, which is where both subclasses inherited the flocking rules. Also the seagulls dodge the spike ball if it comes toward them.
+
+Desiree made the splash animation and the spike ball animation. Both follow the rule of gravity. She also implemented the waves that occur when the spike ball hits the water using spring force.
+
+Xindi made the fish flocking animation. They follow the three rules of flocking: cohesion, separation, and alignment. She and Reagan worked together to make the super class for the seagulls and the fish, which is where both subclasses inherited the flocking rules. Also the fish dodge the spike ball if it comes toward them.
